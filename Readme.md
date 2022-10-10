@@ -8,17 +8,18 @@ This file is divided into three main sections :***
 ### [Colors/Color values]().
 ### [Tips n Trixx for styling 🤓]().
 
-Hhjghhghgfhggghgghhgddsssxsxzzsfxcfg
-Dgdbvhdhdhdjdhfsgdhdgdhdbg
 
-Jjdhdjdhsjshdjr
-
-Bsjdhsjsbdjdbdjd
-Dhdjdhdjdh
-Hdjdhd
-Jdkdh
-Djdkd
 
 
 ### Installation and Setup
-#### React.JS : 
+##### React.JS
+** Creating new React app **
+1. Install NodeJs
+2. cd into projects directory
+
+**In terminal** >>
+```
+   - npx create-react-app {{app-name}}
+   - cd {{app-name-directory}} 
+   - yarn / npm start
+```
